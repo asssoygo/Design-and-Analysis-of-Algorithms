@@ -1,3 +1,4 @@
+package Test;
 public final class Metrics {
     public long cmp, ns;
     public int depth, maxDepth;
